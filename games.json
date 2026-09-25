@@ -1,9 +1,9 @@
 
 {
   "name": "wobbly life",
-  "downloads": [
+  "downloads": [https://raw.githubusercontent.com/petrmaskibi-stack/moje-hra/refs/heads/main/games.json
     {
-      "title": "Moje hra",
+      "title": "wobbly life",
       "uploadDate": "2026-09-25T00:00:00+00:00",
       "fileSize": "15",
       "uris": [
